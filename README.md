@@ -1,2 +1,2 @@
 # KataSGIB
-Kata SGIB Java
+Kata SGIB  - Java Programm
